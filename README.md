@@ -4,7 +4,7 @@ Hi 👋 My name is Şener Üstünerciyas
 Data Scientist
 --------------
 
-I am interested in data science, machine learning and how they all work together. I conduct research in these areas and apply this knowledge to help businesses make decisions that are based on fact, not hyperbole. Thanks to my high research ability and hard work, I continue to develop myself in these areas. Serving data science for many years is my only goal for the coming years.
+Passionate and detail-oriented data enthusiast with experience working with large datasets and solving complex problems. Skilled in Python and SQL, with a strong background in machine learning and statistical analysis. Proficient in data visualization and communication of findings to a wide range of audiences. Seeking a challenging and rewarding opportunity to apply my skills and continue learning in the field of data science.
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [snrustunerciyas@icloud.com](mailto:snrustunerciyas@icloud.com)
